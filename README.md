@@ -1,6 +1,18 @@
-# Sistema de Frequência de Voluntários
-Este projeto é um Sistema de Frequência de Voluntários desenvolvido em Python utilizando o framework Flask. 
-O sistema tem como objetivo principal gerenciar eventos e registrar a frequência de voluntários em diferentes tipos de atividades, como workshops, visitas e encontros. Ele também possui funcionalidades para administração de usuários e controle de presenças.
+# 📝 Sistema de Frequência de Voluntários  
+
+O **Sistema de Frequência de Voluntários** é uma aplicação robusta desenvolvida em **Python**, utilizando o framework **Flask**. Este sistema foi projetado para facilitar o gerenciamento de eventos, proporcionando uma maneira eficiente de registrar a frequência dos voluntários em diversas atividades, incluindo workshops, visitas e encontros.  
+
+## 🎯 Objetivos Principais  
+
+- **Gerenciamento de Eventos:** Permite que administradores adicionem, modifiquem e excluam eventos, garantindo que todas as informações estejam atualizadas e acessíveis.  
+- **Registro de Frequência:** Capta a presença dos voluntários em diferentes tipos de atividades, garantindo um controle eficaz e transparente.  
+- **Administração de Usuários:** Facilita o cadastro, o login e a gestão de permissões de diferentes usuários do sistema, assegurando que cada função tenha acesso adequado às informações pertinentes.  
+
+## 🌟 Funcionalidades Adicionais  
+
+Além das funcionalidades básicas, o sistema inclui ferramentas para relatórios e análises, permitindo que os administradores monitorem a participação dos voluntários e o impacto das atividades realizadas. Com uma interface intuitiva e responsiva, o sistema foi desenvolvido para proporcionar uma experiência de uso agradável e fácil, utilizando as melhores práticas de desenvolvimento web.  
+
+Este projeto representa um passo significativo em direção à organização e eficiência das atividades de voluntariado, promovendo uma maior participação e engajamento dos envolvidos.
 
 | ![image1](https://github.com/user-attachments/assets/ae05595a-0e23-42d4-acc7-6c1aa68ed2f1) | ![image2](https://github.com/user-attachments/assets/e295a015-9da9-420e-b0f8-d1b88e13e051) | ![image3](https://github.com/user-attachments/assets/fc4755af-0fe2-471c-b250-35658fe384f6) |  
 |---|---|---|  
