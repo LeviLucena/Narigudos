@@ -55,4 +55,4 @@ O sistema tem como objetivo principal gerenciar eventos e registrar a frequênci
 ### Instruções de Instalação  
 1. Faça o clone deste repositório:  
    ```bash  
-   git clone url_do_repositorio 
+   git clone https://github.com/LeviLucena/Narigudos.git
